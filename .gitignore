@@ -1,0 +1,31 @@
+# Build
+target/
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Maven
+.settings/
+.mvn/wrapper/maven-wrapper.jar
+
+# Coverage / reports
+.coverage/
+jacoco*.exec
+site/
+
+# Temporary
+*.tmp
+*.swp
